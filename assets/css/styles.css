@@ -1,0 +1,10 @@
+.bg_foto {
+  background: url(bground.jpg) #444;
+  background-size: cover;
+  padding-bottom: 40px;
+}
+
+.ppb20px {
+  padding-bottom: 20px;
+}
+
